@@ -4,7 +4,7 @@ Hey there!
 
 On this project, I was able to:
 
-Make API (Application Programming Interface) requests;
+- Make API (Application Programming Interface) requests;
 - Manipulating DOM;
 - Manipulating HTML;
 - Manipulating JavaScript;
